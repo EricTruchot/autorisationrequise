@@ -1,0 +1,31 @@
+
+
+body{
+    display:flex;
+    justify-content: center;
+    align-items:center;
+    background-color: #696969;
+    height: 700px;
+
+
+}
+.block{
+    background-color: rgb(255, 255, 255);
+    padding: 40px 60px;
+    border-radius: 10px;
+ 
+
+}
+.form{
+    margin-bottom: 3%;
+}
+
+.button {
+        transition-duration: 0.4s;
+        padding: 12px 28px;
+      }
+      
+      .button:hover {
+        background-color: #ffffff; /* Green */
+        color: #696969;
+      }
